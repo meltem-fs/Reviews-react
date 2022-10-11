@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Button from "../buton/Buton";
 import CardStyle from "./card.module.css";
 
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
